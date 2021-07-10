@@ -1,0 +1,2 @@
+class NoBreakStrengthOrTimeGiven(Exception): pass
+
